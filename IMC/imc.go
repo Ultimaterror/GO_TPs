@@ -23,10 +23,10 @@ func main() {
 	fmt.Print("Enter your name : ")
 	fmt.Scan(&name)
 
-	fmt.Print("Entrez your weight (kg) : ")
+	fmt.Print("Enter your weight (kg) : ")
 	fmt.Scan(&weight)
 
-	fmt.Print("Entrez your height (m) : ")
+	fmt.Print("Enter your height (m) : ")
 	fmt.Scan(&height)
 
 	fmt.Println("Name :", name)
