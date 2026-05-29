@@ -8,7 +8,6 @@ La valeur initiale d’une variable est « valeur zéro »
 - float : 0.0
 - string : ""
 - bool : false
-- struct : nil
 - slice : nil
 - function : nil
 
